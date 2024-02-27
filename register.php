@@ -74,7 +74,7 @@ if(isset($_POST['submit'])) {
             <div class="login-panel panel panel-default">
                 <div class="panel-heading">Sign Up</div>
                 <div class="panel-body">
-                    <form role="form" action="" method="post" id="signup" name="signup" onsubmit="return checkpass();">
+                    <form role="form" action="register.php" method="post" id="signup" name="signup" onsubmit="return checkpass();">
                         <p style="font-size:16px; color:red" align="center"><?php echo isset($msg) ? $msg : ''; ?></p>
                         <fieldset>
                             <div class="form-group">
