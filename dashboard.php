@@ -276,7 +276,7 @@ echo $sum_total_expense;
 		
 		<!--/.row-->
 	</div>	<!--/.main-->
-    <button class="chatbot-button" onclick="toggleChatbot()">Chat</button>
+    <button class="chatbot-button" onclick="toggleChatbot()">Chat us</button>
     <iframe class="chatbot-frame" src="https://webchat.botframework.com/embed/moneybot-bot?s=ZFppcFlVTB0.gy0KU4hL0IBGPNMTiLpZk76jwUOYHIAJyBF12n8pv64" style="height: 502px; max-height: 502px;"></iframe>
 	
 	<?php include_once('includes/footer.php');?>
