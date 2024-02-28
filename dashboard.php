@@ -28,25 +28,26 @@ if (strlen($_SESSION['detsuid']==0)) {
 	<![endif]-->
     <style>
         /* Chatbot button style */
-        .chatbot-button {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: #007bff;
-            color: #fff;
-            border: none;
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
-            font-size: 18px;
-            cursor: pointer;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-            z-index: 9999; /* Ensure button is above other elements */
-        }
+.chatbot-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px; /* Rectangular border-radius */
+    width: 120px; /* Adjust width as needed */
+    height: 50px;
+    font-size: 18px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 9999; /* Ensure button is above other elements */
+}
 
-        .chatbot-button:focus {
-            outline: none;
-        }
+.chatbot-button:focus {
+    outline: none;
+}
+
 
         /* Chatbot frame style */
         .chatbot-frame {
