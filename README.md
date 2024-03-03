@@ -44,19 +44,19 @@ Enable users to set financial goals, such as saving for a vacation or paying off
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/appservice.png" alt="azure-app-service"></img><br>
+<img src="https://github.com/Dipalisabde/Money_manager/blob/main/screenshots/app%20service.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
-<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/database.png" alt="azure-mysql-db-service"></img><br>
+<img src="https://github.com/Dipalisabde/Money_manager/blob/main/screenshots/database.png" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI ChatBot Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/chatbot.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://github.com/Dipalisabde/Money_manager/blob/main/screenshots/azure%20bot.png" alt="azure-chatbot-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/project.png" alt="final-project-demo"></img>
-
+<img src="https://github.com/Dipalisabde/Money_manager/blob/main/screenshots/s1.png" alt="final-project-demo"></img>
+<img src="https://github.com/Dipalisabde/Money_manager/blob/main/screenshots/s2.png" alt="final-project-demo"></img>
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/visualizer.png" alt="resource-display"></img>
+<img src="https://github.com/Dipalisabde/Money_manager/blob/main/screenshots/resource%20vis.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
