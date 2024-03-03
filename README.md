@@ -7,7 +7,7 @@ The main purpose of the money management application you described is to help us
 <b>Demo Video URL :</b>  <br>
 <b>Github Repository URL :</b> https://github.com/Dipalisabde/Money_manager/ <br>
 <b>Industry :</b> Lifestyle and Technology<br>
-<b> Sample E-mail id and password: dipalisabde1234@gmail.com && 12345</b>
+<b> Sample E-mail id and password:</b> dipalisabde1234@gmail.com && 12345<br>
 <h2>Azure Services Used </h2>
 <h3>
 Core Azure Services : </h3>
