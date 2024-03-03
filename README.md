@@ -3,6 +3,6 @@ The main purpose of the money management application you described is to help us
 # Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 # Project Title: Money Manager
 # Project Details :
-# Project Demo URL : https://moneymanager1.azurewebsites.net/
-# Demo Video URL :
-# Github Repository URL : https://github.com/Dipalisabde/Money_manager/
+Project Demo URL : https://moneymanager1.azurewebsites.net/
+Demo Video URL :
+Github Repository URL : https://github.com/Dipalisabde/Money_manager/
