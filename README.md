@@ -4,7 +4,7 @@ The main purpose of the money management application you described is to help us
 <h1>Project Title:<b><a href="https://moneymanager1.azurewebsites.net/">Money Manager </a></b></h1>
 <h1>Project Details</h1>
 <b>Project Demo URL :</b> https://moneymanager1.azurewebsites.net/ <br>
-<b>Demo Video URL :</b>  <br>
+<b>Demo Video URL :</b> https://drive.google.com/file/d/1mgQWpe8oup-WI_9K5HWiFc3cGV0fw8or/view?usp=drive_link <br>
 <b>Github Repository URL :</b> https://github.com/Dipalisabde/Money_manager/ <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <b> Sample E-mail id and password:</b> dipalisabde1234@gmail.com && 12345<br>
